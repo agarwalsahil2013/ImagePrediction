@@ -8,8 +8,8 @@ from imageai.Classification import ImageClassification
 b = 'mobilenet_v2.h5'
 
 prediction = ImageClassification()
-prediction.setModelTypeAsInceptionV3()
-prediction.setModelPath(b)
+prediction.setModelTypeAsMobileNetV2()
+prediction.setModelPath(os.path.abspath(b))
 prediction.loadModel()
 
 #UPLOAD_FOLDER = './static/'
