@@ -9,7 +9,7 @@ b = 'mobilenet_v2.h5'
 
 prediction = ImageClassification()
 prediction.setModelTypeAsInceptionV3()
-prediction.setModelPath(os.path.abspath(b))
+prediction.setModelPath(b)
 prediction.loadModel()
 
 #UPLOAD_FOLDER = './static/'
