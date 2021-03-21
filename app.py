@@ -5,11 +5,10 @@ from flask import Flask, request, render_template, redirect, url_for
 from imageai.Classification import ImageClassification
 
 #execution_path = os.getcwd()
-#b = 'mobilenet_v2.h5'
-b = 'inception_v3_weights_tf_dim_ordering_tf_kernels.h5'
+b = 'mobilenet_v2.h5'
 
 prediction = ImageClassification()
-prediction.setModelTypeAsInceptionV3()
+prediction.setModelTypeAsMobileNetV2()
 prediction.setModelPath(os.path.abspath(b))
 prediction.loadModel()
 
