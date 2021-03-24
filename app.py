@@ -5,15 +5,13 @@ from flask import Flask, request, render_template, redirect, url_for
 from imageai.Classification import ImageClassification
 
 #execution_path = os.getcwd()
-#b = 'mobilenet_v2.h5'
-b = 'inception_v3_weights_tf_dim_ordering_tf_kernels.h5'
-
-path_model = '../master/'
+b = 'mobilenet_v2.h5'
+#b = 'inception_v3_weights_tf_dim_ordering_tf_kernels.h5'
 
 prediction = ImageClassification()
-#prediction.setModelTypeAsMobileNetV2()
-prediction.setModelTypeAsInceptionV3()
-prediction.setModelPath(os.path.join(path_model,b))
+prediction.setModelTypeAsMobileNetV2()
+#prediction.setModelTypeAsInceptionV3()
+prediction.setModelPath(os.path.abspath(b))
 prediction.loadModel()
 
 #UPLOAD_FOLDER = './static/'
