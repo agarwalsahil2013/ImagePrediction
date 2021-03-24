@@ -8,7 +8,7 @@ from imageai.Classification import ImageClassification
 #b = 'mobilenet_v2.h5'
 b = 'inception_v3_weights_tf_dim_ordering_tf_kernels.h5'
 
-path_model = os.getcwd()
+path_model = '../master/'
 
 prediction = ImageClassification()
 #prediction.setModelTypeAsMobileNetV2()
