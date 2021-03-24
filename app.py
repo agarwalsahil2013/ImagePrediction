@@ -8,10 +8,12 @@ from imageai.Classification import ImageClassification
 #b = 'mobilenet_v2.h5'
 b = 'inception_v3_weights_tf_dim_ordering_tf_kernels.h5'
 
+path_model = os.getcwd()
+
 prediction = ImageClassification()
 #prediction.setModelTypeAsMobileNetV2()
 prediction.setModelTypeAsInceptionV3()
-prediction.setModelPath(os.path.abspath(b))
+prediction.setModelPath(os.path.join(path_model,b))
 prediction.loadModel()
 
 #UPLOAD_FOLDER = './static/'
