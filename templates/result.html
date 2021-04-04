@@ -3,17 +3,21 @@
 <head>
 	<title>Image Detection</title>
 	<link rel="stylesheet" type="text/css" href="../static/style.css">
+	<script src="https://kit.fontawesome.com/5f3f547070.js" crossorigin="anonymous"></script>
 </head>
 <body>
-	<center>
 	<h1>Here is the result!!</h1>
-
-	<div class="box" style="color:black; font-size: 30px">
-
-	{{name}}<br><br>
-	<img src="{{url_for('static', filename= unn)}}" align="middle" width="300px" height="300px" />
+	<div class="box">
+		<p class="box-result">{{name}}</p>
+		<img src="{{url_for('static', filename= unn)}}">
 	</div>
-	</center>
+	<div class="footer">
+		<div class="contact">
+			<a target="_blank" href="https://github.com/agarwalsahil2013/ImagePrediction.git"><i class="fab fa-github fa-lg contact-icon"></i></a>
+        	<a target="_blank" href="https://www.linkedin.com/in/sahil-agarwal-/"><i class="fab fa-linkedin fa-lg contact-icon"></i></a>
+		</div>
+		<p class="footer-description">&copy; Made by Sahil Agarwal</p>
+	</div>
 
 </body>
 </html>
