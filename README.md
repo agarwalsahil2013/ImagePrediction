@@ -10,5 +10,5 @@ This project uses Image Prediction model developed by MobileNetV2. There are mor
 You can test the model on **Heroku** from this [link](https://imagepredictiondeploy.herokuapp.com/). I had fun testing different images and found some images are better predicted by MobileNetV2 compare to everyone else. Please test the model with your desire image. I'm sure you'll enjoy too.
 
 ## Recommendation
-Feel free to reach out to me for any questions or connections. You can find me on [link](https://www.iconfinder.com/editor/?id=771370&hash=9f31f830ab5219b22ef0cc3dff1fef56ff55f5d7b3b39f1abe974e88#copy)
+Feel free to reach out to me for any questions or connections. You can find me on ![lin](https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png)
 
