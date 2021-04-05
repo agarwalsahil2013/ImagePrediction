@@ -13,5 +13,5 @@ You can test the model on **Heroku** from this [**link**](https://imagepredictio
 <img src="https://github.com/agarwalsahil2013/ImagePrediction/blob/main/Images/ezgif.com-gif-maker.gif" />
 
 ## Recommendation
-Feel free to reach out to me for any questions or suggestions. You can find me on <a href="https://www.linkedin.com/in/sahil-agarwal-"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20" /></a>
+Feel free to reach out to me for any questions or suggestions. You can find me on <a href="https://www.linkedin.com/in/sahil-agarwal-"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20" /></a>. For more projects you can visit over here.<a href="https://github.com/agarwalsahil2013"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20" /></a>
 
