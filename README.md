@@ -8,7 +8,7 @@ This project predicts any kind of image uploaded to it. It uses Image Prediction
 [**ImageAI**](https://github.com/OlafenwaMoses/ImageAI).
 
 ## Deployed Model on Heroku
-You can test the model on **Heroku** from this [**link**](https://imagepredictiondeploy.herokuapp.com/). I had fun testing different images and found some images are better predicted by MobileNetV2 compared to everyone else. Please test the model with your desire image. I'm sure you'll enjoy too.<br/>
+You can test the model on **Heroku** from this [**link**](https://imagepredictiondeploy.herokuapp.com/). I had fun testing different images and found some images are better predicted by MobileNetV2 compared to everyone else. Please test the model with your desire image. I'm sure you'll enjoy too.<br>
 <img src="https://github.com/agarwalsahil2013/ImagePrediction/blob/main/Images/ezgif.com-gif-maker.gif" />
 
 ## Recommendation
