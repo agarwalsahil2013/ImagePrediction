@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Python-V3.7-blue)
+![](https://img.shields.io/badge/Python-V3.7-blue) ![](https://img.shields.io/badge/flask-v1.1.1-blue) ![](https://img.shields.io/github/watchers/agarwalsahil2013/ImagePrediction?style=social)
 # ImagePrediction
 
 Hello fellas, Nice to see you here. Let me explain the whole project.
