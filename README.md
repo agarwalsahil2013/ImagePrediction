@@ -1,3 +1,4 @@
+[](https://img.shields.io/badge/Python-V3.7-blue)
 # ImagePrediction
 
 Hello fellas, Nice to see you here. Let me explain the whole project.
