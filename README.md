@@ -8,10 +8,10 @@ This project predicts any kind of image uploaded to it. It uses the Image Predic
 [**ImageAI**](https://github.com/OlafenwaMoses/ImageAI).
 
 ## Deployed Model on Heroku
-You can test the model on **Heroku** from this [**link**](https://imagepredictiondeploy.herokuapp.com/). I had fun testing different images and found some images are better predicted by MobileNetV2 compared to everyone else. You can access sample image over [**here**](https://github.com/agarwalsahil2013/ImagePrediction/tree/main/Images/model%20sample%20images). Please test the model with your desired images too. I'm sure you'll enjoy it too.
+You can test the model on **Heroku** from this [**link**](https://imagepredictiondeploy.herokuapp.com/). I had fun testing different images and found some images are better predicted by MobileNetV2 compared to everyone else. You can access the sample image over [**here**](https://github.com/agarwalsahil2013/ImagePrediction/tree/main/Images/model%20sample%20images). Please test the model with your desired images too. I'm sure you'll enjoy it too.
 
 <img src="https://github.com/agarwalsahil2013/ImagePrediction/blob/main/Images/ezgif.com-gif-maker.gif" />
 
 ## Recommendation
-Feel free to reach out to me for any questions or suggestions. You can find me on <a href="https://www.linkedin.com/in/sahil-agarwal-"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20" /></a>. For more projects you can visit over here.<a href="https://github.com/agarwalsahil2013"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20" /></a>
+Feel free to reach out to me for any questions or suggestions. You can find me on <a href="https://www.linkedin.com/in/sahil-agarwal-"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20" /></a>. For more projects, you can visit over here.<a href="https://github.com/agarwalsahil2013"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20" height="20" /></a>
 
